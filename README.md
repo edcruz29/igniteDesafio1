@@ -80,4 +80,4 @@ Você pode conferir o desafio:
 ## Desafios Extras
 
 **Desenvolvido por:**
-**[Eduardo Cruz](https://github.com/edcruz29/).**# Desafio 3 - Rocketseat Discover
+**[Eduardo Cruz](https://github.com/edcruz29/).**# Desafio 1 - Rocketseat Ignite
